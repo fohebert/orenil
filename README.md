@@ -11,7 +11,11 @@
 - [Python 2.7](https://www.python.org/download/releases/2.7/)
 
 ## Before starting
-Make sure all of the required programs are installed and running well. Next, download the genome assembly FASTA file AND the gene feature file (GFF) directly from the [NCBI webpage](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/858/045/GCF_001858045.1_ASM185804v2). Files to download are the following:
+Make sure all of the required programs are installed and running well. Next, download the genome assembly FASTA file AND the gene feature file (GFF) directly from the NCBI FTP server:
+
+(ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/858/045/GCF_001858045.1_ASM185804v2)
+
+Files to download are the following:
 - GCF_001858045.1_ASM185804v2_genomic.fna
 - GCF_001858045.1_ASM185804v2_genomic.gff
 
