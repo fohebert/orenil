@@ -1,7 +1,7 @@
 # Alignment pipeline for RNAseq paired-end reads on _Oreochromis niloticus_
 ## Genome version used: NCBI PacBio v2, accession number GCA_001858045.2
 
-**NB**: This pipeline was ran in a very specific context. Use at your own risk. There is no guaratee that this is going to work in a different context (diffrent cluster system with different computer power).
+**NB**: This pipeline was ran in a very specific context. Use at your own risk. There is no guaratee that this is going to work in a different context (diffrent cluster system with different computer power). Also, this pipeline was designed for paired-end reads. Anyone wanting to use it for single-end reads should modify the tophat script to fit its personnal needs.
 
 ## Requirements
 - [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) 
