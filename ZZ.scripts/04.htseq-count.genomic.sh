@@ -13,7 +13,7 @@
 # GLOBAL VARIABLES
 OUTPUT='04.htseq-count/genome/pacbio.version'
 MAPPED='03.tophat.results/genomic.results'
-GFF='01.raw.data/genomic.references/pacbio.version.GCF_001858045.1'
+GFF='01.raw.data/'
 
 # Using HTSeq-count to count the number of reads for each feature of the cichlid genome in each mapping file.
 for file in `ls -1 ${MAPPED}/*.bam | sed 's/03\.tophat\.results\/genomic\.results\///g'`; do

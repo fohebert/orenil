@@ -13,7 +13,6 @@
 # GLOBAL VARIABLES
 TRIMMED='02.trimmomatic'
 OUTPUT='03.tophat.results'
-REFERENCE='01.raw.data/genomic.references/pacbio.version.GCF_001858045.1'
 
 # Loading the required modules
 module load tophat/2.1.1
